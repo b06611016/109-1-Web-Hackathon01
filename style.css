@@ -65,7 +65,9 @@ body > h1{
     text-align: top;
     vertical-align: top;
 }
-
+.date:hover{
+	background:rgba(0,0, 0, 0.103);
+}
 /*****************Themes*****************/
 .Theme-black {
     --main: black;
